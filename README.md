@@ -23,14 +23,29 @@ Rule of thumb is: Toy has WiFi or Bluetooth capabilities, then it might have a v
 * I-Que Intelligent Robot
 * Toy-fi Teddy
 * CloudPets cuddly toys
+* Marbotic Smart Letters
+* pi lab Edwin the Duck
+* Adidas - Adidas miCoach Smart Soccer Ball
+* Evollve - Ozobot Evo
+* Sensible Object LtD - Beasts of Balance
+* Toymail - Toymail Talkie
+* Sphero - Sphero SPRK+
+* Tangible Play - Osmo
+* Wonder Workshop - Dash the Robot
+* Sphero - BB-8 by Sphero
+* Zivix - AirJamz Air Guitar
+
 
 ### References
 
 * https://www.theguardian.com/technology/2015/nov/26/hackers-can-hijack-wi-fi-hello-barbie-to-spy-on-your-children
 * https://inews.co.uk/news/technology/your-childrens-connected-toys-can-be-hacked-warn-experts/
+* https://advocacy.mozilla.org/en-US/privacynotincluded/category/toys
 
 ### Resource
 
-* https://advocacy.mozilla.org/en-US/privacynotincluded/category/toys
+After I have started this list I have got the link to this project that has a lot more than toys. Security is important and therefore adding them as a permanent resource to this list.
+
+* https://advocacy.mozilla.org/en-US/privacynotincluded
 
 
